@@ -5,23 +5,10 @@
   
   <entry>
     <title>ViT</title>
-    <link href="/2025/09/19/ViT-1/"/>
-    <url>/2025/09/19/ViT-1/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>ViT</title>
     <link href="/2025/09/19/ViT/"/>
     <url>/2025/09/19/ViT/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>Paper: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</p><p>ViT leads the development of transformer-based architecture in CV.The core idea of ViT is to divide an image into multiple small blocks (patches) and treat these small blocks as a sequence input to the Transformer Encoder. </p><p>The ViT model is mainly composed of the following three modules:</p><ol><li>Linear Projection of Flattened Patches (Embedding Layer)</li><li>Transformer Encoder</li><li>MLP Head (Classification Head)</li></ol>]]></content>
     
     
     
